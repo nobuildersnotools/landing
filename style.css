@@ -1,7 +1,13 @@
 body {
   background: white;
 }
-
 p {
-  color: black;
+  color: navy;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
+}
+h1 {
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
+}
+h2 {
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
 }
